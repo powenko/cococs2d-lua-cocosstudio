@@ -1,0 +1,31 @@
+<Solution>
+  <PropertyGroup Name="LevelSelection2" Version="2.3.0.1" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="Layer.csd" Type="Layer" />
+        <Folder Name="LevelSelection">
+          <Image Name="LS01.png" />
+          <Image Name="LS02.png" />
+          <Image Name="LS03.png" />
+          <Image Name="LS04.png" />
+          <Image Name="LS05.png" />
+          <Image Name="LS06.png" />
+          <Image Name="LS07.png" />
+          <Image Name="LS08.png" />
+          <Image Name="LS09.png" />
+          <Image Name="LS10.png" />
+          <Image Name="LS11.png" />
+          <Image Name="LS12.png" />
+          <Image Name="LS13.png" />
+          <Image Name="LS14.png" />
+          <Image Name="upomp_bypay_member_btn1_click.png" />
+        </Folder>
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Folder Name="Common">
+          <Image Name="Cn21.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
